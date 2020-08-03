@@ -1,5 +1,5 @@
-# ProjectEuler
-Compilation of some solutions of the challenges existent in the website www.projecteuler.net
+# Project Euler
+Solutions for [Project Euler](https://projecteuler.net/)
 
 ### Copyright & License
 MIT Licensed.
